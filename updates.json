@@ -1,3 +1,4 @@
 {
-    "version" : 0.5
+    "version" : 0.5,
+    "warning" : "IMPORTANT! Before update, take backup of data of resolved Mantis'!"
 }
