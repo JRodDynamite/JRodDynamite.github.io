@@ -1,0 +1,3 @@
+[submodule "workbench-enhancer-page"]
+	path = workbench-enhancer-page
+	url = git@github.com:akhileshbhatia/workbench-enhancer-page.git
