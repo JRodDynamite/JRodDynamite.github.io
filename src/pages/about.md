@@ -3,8 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
 
-Greetings, I'm Jason Estibeiro, a software engineer specializing in data engineering, stream data processing, and real-time data analytics. 
-Additionally, I occasionally explore web development, devops, cloud engineering, and related areas.
+Hi, I'm Jason, a Full Stack Developer with extensive experience in building scalable web applications and handling complex data processing tasks. Skilled in backend development, cloud infrastructure management, implementing DevOps practices, and leading cross-functional teams to deliver innovative software solutions.
 
 <!-- <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -12,8 +11,9 @@ Additionally, I occasionally explore web development, devops, cloud engineering,
 
 ## Professional Career
 
- - Currently working as a <b>Lead Software Engineer</b> at <b>Unscrambl Singapore</b> developing and delivering products on real-time event detection for various industries especially banking and telecom domain. 
- - Before this, led a team of cloud engineers and devops engineers for creating reusable components for CI/CD for cloud platforms majorly AWS.
+ - Working at <b>HCL Software</b> as part of an acqui-hire, I led the development of the acquired product and facilitated integration across testing, sales, support, and services teams while engaging in technical discussions with clients for solution migrations.
+ - Previously worked as a <b>Lead Software Engineer</b> at <b>Unscrambl Singapore</b> developing and delivering products on real-time event detection for various industries especially banking and telecom domain. 
+ - Before this, at <b>Splore</b> led a team of cloud engineers and devops engineers for creating reusable components for CI/CD for cloud platforms majorly AWS.
  - At <b>Unscrambl India</b> as a <b>Staff Software Engineer</b>, helped in building various solutions in stream data processing and conversational analytics.
 
 
