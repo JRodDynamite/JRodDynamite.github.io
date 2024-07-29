@@ -37,4 +37,4 @@ Hi, I'm Jason, a Full Stack Developer with extensive experience in building scal
 <!-- Add link? https://www.facebook.com/DjangoNagpur/posts/pfbid024gRhzerdq1JaDxuws3qox1ScshMdVAbeiZMsxy9oZ4n1p7YUGQr9yUqLgA21sgyjl -->
 
 
-## Resume
+## [Resume](/resume.pdf)
