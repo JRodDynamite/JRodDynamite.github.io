@@ -14,7 +14,7 @@ Hi, I'm Jason, a Full Stack Developer with extensive experience in building scal
  - Working at <b>HCL Software</b> as part of an acqui-hire, I led the development of the acquired product and facilitated integration across testing, sales, support, and services teams while engaging in technical discussions with clients for solution migrations.
  - Previously worked as a <b>Lead Software Engineer</b> at <b>Unscrambl Singapore</b> developing and delivering products on real-time event detection for various industries especially banking and telecom domain. 
  - Before this, at <b>Splore</b> led a team of cloud engineers and devops engineers for creating reusable components for CI/CD for cloud platforms majorly AWS.
- - At <b>Unscrambl India</b> as a <b>Staff Software Engineer</b>, helped in building various solutions in stream data processing and conversational analytics.
+ - At <b>Unscrambl India</b> as a <b>Software Engineer</b>, helped in building various solutions in stream data processing and conversational analytics.
 
 
 ## Certifications
@@ -35,3 +35,6 @@ Hi, I'm Jason, a Full Stack Developer with extensive experience in building scal
  - Early contributor to [an open-source event ticket shop application](https://github.com/pretix/pretix), helped implement then Django's latest authentication features in.
  - Voluntered in conducting a workshop about Python and Django for a local DjangoGirls chapter.
 <!-- Add link? https://www.facebook.com/DjangoNagpur/posts/pfbid024gRhzerdq1JaDxuws3qox1ScshMdVAbeiZMsxy9oZ4n1p7YUGQr9yUqLgA21sgyjl -->
+
+
+## Resume
